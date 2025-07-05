@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"d:\\Learning\\North_south_university\\NSUPS_BootCamp 16\\week7\\c.cpp","tests":[{"id":1699809520410,"input":"2\n1000000\n1996\n5\n8\n123456","output":"1\n3626619\n5957\n5\n11\n426566"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Learning\\North_south_university\\NSUPS_BootCamp 16\\week7\\c.cpp","group":"local","local":true}
